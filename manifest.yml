@@ -1,6 +1,6 @@
 ---
 applications:
-- name: lynn6
+- name: "lynn6"
   memory: 1024M
   instances: 1
   buildpack: https://github.com/cloudfoundry/java-buildpack.git
